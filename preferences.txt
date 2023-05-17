@@ -1,0 +1,6 @@
+"Favorite movie": "Harry Potter",
+"Favorite TV series": "The vampire diaries",
+"Favorite food": "meat",
+"Favorite time of the year": "summer",
+"The country I want to visit": "Georgia" [D[D [D[D[D[D[D[D[D[D[D [D[D[D[D [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [A[D [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [C[C [C[C[C[C[C[C [A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [D[D[D[D[D[D [D[D[D[D [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [A[D [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [C[C [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [A[D[D[D[D[D[D[D[D[D[D[D[D [D[D[D[D[D[D[D[D[D[D[D[D[D[D [D[D[D[D [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 
+
