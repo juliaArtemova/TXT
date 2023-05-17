@@ -1,0 +1,13 @@
+bug report structure
+    ID,
+    project,
+    environment,
+    precondition,
+    title,
+    link,
+    steps to reproduce,
+    actual result,
+    expected result,
+    additional information
+
+
